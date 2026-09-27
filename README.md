@@ -2,8 +2,6 @@
 
 ### A student software developer from Hungary.
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=tejszineshab-Dev" alt="tejszineshab-Dev" /></a> </p>
-
 - 🔭 I'm currently working on **tejszineshab's Simracing Fuel Calculator**
 
 - 🌱 I'm currently learning **C#, PHP, MySql**
